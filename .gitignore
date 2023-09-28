@@ -1,7 +1,0 @@
-﻿################################################################################
-# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
-################################################################################
-
-/WordDocumentAPI/.vs
-/WordDocumentAPI/WordDocumentAPI/bin/Debug/net6.0
-/WordDocumentAPI/WordDocumentAPI/obj
